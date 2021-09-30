@@ -30,3 +30,6 @@ agent reaches 11 x 1 block.
 - The environment is deterministic and fully observable.
 - The perception is given by the environment and includes, cell coordinates and if the current
 piece in the cell is empty or blocked.
+
+## Contact
+Need help? Got any queries? Feel free to hit me up at sanakahnn@gmail.com.
